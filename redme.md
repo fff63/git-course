@@ -1,3 +1,3 @@
 # Git and GitHub Course
 
-Crah course for Git
+Crah course for Gitcd
